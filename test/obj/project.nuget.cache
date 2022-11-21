@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rIDZBh05XhDWCc54XAgGJcAAICl/Iwn8MBi8ajtH1r8QBapqQsGCxI1nWyA2AO2RisNe/WhqmvnHFrXtodvhQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\insek\\source\\repos\\conv\\test\\test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\insek\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

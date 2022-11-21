@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFigure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Figure>
+		<Name>cvadrat</Name>
+		<Color>red</Color>
+		<Coord>10</Coord>
+	</Figure>
+	<Figure>
+		<Name>cube</Name>
+		<Color>blue</Color>
+		<Coord>5</Coord>
+	</Figure>
+</ArrayOfFigure>

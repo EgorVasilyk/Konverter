@@ -1,0 +1,6 @@
+cvadrat
+red
+10
+cube
+blue
+5

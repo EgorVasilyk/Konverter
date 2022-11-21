@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "cvadrat",
+    "Color": "red",
+    "Coord": 10
+  },
+  {
+    "Name": "cube",
+    "Color": "blue",
+    "Coord": 5
+  }
+]

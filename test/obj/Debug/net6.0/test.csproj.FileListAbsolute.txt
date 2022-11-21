@@ -1,0 +1,17 @@
+C:\Users\insek\source\repos\test\test\bin\Debug\net6.0\test.exe
+C:\Users\insek\source\repos\test\test\bin\Debug\net6.0\test.deps.json
+C:\Users\insek\source\repos\test\test\bin\Debug\net6.0\test.runtimeconfig.json
+C:\Users\insek\source\repos\test\test\bin\Debug\net6.0\test.dll
+C:\Users\insek\source\repos\test\test\bin\Debug\net6.0\test.pdb
+C:\Users\insek\source\repos\test\test\obj\Debug\net6.0\test.csproj.AssemblyReference.cache
+C:\Users\insek\source\repos\test\test\obj\Debug\net6.0\test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\insek\source\repos\test\test\obj\Debug\net6.0\test.AssemblyInfoInputs.cache
+C:\Users\insek\source\repos\test\test\obj\Debug\net6.0\test.AssemblyInfo.cs
+C:\Users\insek\source\repos\test\test\obj\Debug\net6.0\test.csproj.CoreCompileInputs.cache
+C:\Users\insek\source\repos\test\test\obj\Debug\net6.0\test.dll
+C:\Users\insek\source\repos\test\test\obj\Debug\net6.0\refint\test.dll
+C:\Users\insek\source\repos\test\test\obj\Debug\net6.0\test.pdb
+C:\Users\insek\source\repos\test\test\obj\Debug\net6.0\test.genruntimeconfig.cache
+C:\Users\insek\source\repos\test\test\obj\Debug\net6.0\ref\test.dll
+C:\Users\insek\source\repos\test\test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\insek\source\repos\test\test\obj\Debug\net6.0\test.csproj.CopyComplete
